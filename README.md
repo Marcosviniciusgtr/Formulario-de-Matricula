@@ -28,6 +28,5 @@ Neste projeto, aprendi a:
 
 ## 📷 Screenshot
 
-![Formulário de Matrícula - Escola Estrelas do Amanhã](./Forms-de-matrícula-escola.png)
-
+![Forms de matrícula escola](https://github.com/user-attachments/assets/f1a64de0-61a8-443c-bbaf-b3e7faeaab46)
 
